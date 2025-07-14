@@ -17,7 +17,7 @@ A Linear Regression model was developed to predict the Profit Margin based on:
 
 - Total Sales
 
-Model performance was assessed using:
+**Model performance was assessed using:**
 
 - Mean Squared Error (MSE) – to quantify prediction error
 
@@ -30,7 +30,7 @@ To identify whether a sale was high-profit or low-profit, I created a new binary
 
 - Others were labeled as 0
 
-This enabled binary classification using Logistic Regression. The model was evaluated using:
+This enabled binary classification using Logistic Regression. **The model was evaluated using:**
 
 - Classification Report
 
@@ -67,4 +67,10 @@ This enabled binary classification using Logistic Regression. The model was eval
 - Scikit-learn – machine learning models and evaluation
 
 - Jupyter Notebook – analysis environment
+
+## 👨‍💻 Author
+**Syed Danish Ahmed
+Aspiring Data Scientist | Computer Engineering Student**
+
+If you found this project helpful or insightful, consider giving it a ⭐ star , your support is appreciated!
 
