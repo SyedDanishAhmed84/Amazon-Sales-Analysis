@@ -36,7 +36,7 @@ This enabled binary classification using Logistic Regression. **The model was ev
 
 - Precision, Recall, and F1 Score
 
-- Confusion Matrix, including analysis of:
+**Confusion Matrix, including analysis of:**
 
 - True Positives (TP)
 
@@ -69,8 +69,9 @@ This enabled binary classification using Logistic Regression. **The model was ev
 - Jupyter Notebook – analysis environment
 
 ## 👨‍💻 Author
-**Syed Danish Ahmed
-Aspiring Data Scientist | Computer Engineering Student**
+**Syed Danish Ahmed**
+
+**Aspiring Data Scientist | Computer Engineering Student**
 
 If you found this project helpful or insightful, consider giving it a ⭐ star , your support is appreciated!
 
